@@ -13,3 +13,4 @@
 10) Interactive dashboards with slicers
 11) Dashboard theming with Page Layout options
 12) Storytelling with strong & insightful titles for your charts
+<img width="1915" height="732" alt="Output" src="https://github.com/user-attachments/assets/6d1a5518-c8a5-498b-8718-09a224ece29e" />
